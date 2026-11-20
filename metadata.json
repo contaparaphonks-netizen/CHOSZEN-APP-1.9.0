@@ -1,0 +1,6 @@
+{
+  "name": "CHOSZEN™©",
+  "description": "Painel web oficial CHOSZEN™© com acesso por Key permanente, futebol ao vivo em tempo real, saves persistentes, mundo aberto interativo e roleta de decisões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "app-usa-network",
+    "name": "USA NETWORK",
+    "category": "Canal Oficial (NBCUniversal)",
+    "icon": "tv",
+    "description": "Sinal oficial ao vivo da USA Network (NBCUniversal). Tenta abrir no navegador interno do CHOSZEN e direciona ao Chrome caso a reprodução incorporada não seja permitida. Requer operadora de TV participante (EUA).",
+    "url": "https://www.usanetwork.com/live?brand=usa",
+    "actionLabel": "ASSISTIR",
+    "tryInAppBrowser": true,
+    "requiresTvProvider": true,
+    "allowedRegions": ["US"],
+    "regionNotice": "Disponível oficialmente apenas nos Estados Unidos.",
+    "isExternalCommunity": false,
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "app-tv-brasil",
+    "name": "TV Brasil",
+    "category": "Plataforma Pública",
+    "icon": "tv",
+    "description": "Aplicativo oficial na Google Play Store. Exibe a programação aberta da emissora pública; consulte a grade para confirmar disponibilidade de transmissões esportivas.",
+    "url": "https://play.google.com/store/apps/details?id=com.tvbrazilo.brasilero",
+    "isExternalCommunity": false,
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "app-youtube",
+    "name": "YouTube",
+    "category": "Plataforma de Vídeo",
+    "icon": "youtube",
+    "description": "Plataforma oficial de vídeos e transmissões ao vivo. Acesso direto a canais legais verificados como CazéTV, Canal GOAT, TV Brasil e canais de clubes e federações.",
+    "url": "https://www.youtube.com/",
+    "isExternalCommunity": false,
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "app-telegram-canal",
+    "name": "Telegram — Canal Externo",
+    "category": "Link Externo (Telegram)",
+    "icon": "telegram",
+    "description": "Link externo no Telegram. Espaço comunitário externo, sem garantia ou presunção prévia de transmissão esportiva.",
+    "url": "https://t.me/c/2138847088/1996",
+    "isExternalCommunity": true,
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "app-telegram-abmoods",
+    "name": "Telegram — ABMoods",
+    "category": "Link Externo (Telegram)",
+    "icon": "telegram",
+    "description": "Link externo publicado no Telegram (@ABMoods). Acesso direto no navegador ou aplicativo, sem presunção de transmissão esportiva.",
+    "url": "https://t.me/ABMoods/150",
+    "isExternalCommunity": true,
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  }
+]

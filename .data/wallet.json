@@ -1,0 +1,71 @@
+{
+  "config": {
+    "creditAmount": 500,
+    "prices": {
+      "1d": 100,
+      "7d": 320,
+      "1m": 670
+    }
+  },
+  "wallets": {
+    "bcaee915-ffcd-4c40-927e-e065e2d627ab": {
+      "id": "bcaee915-ffcd-4c40-927e-e065e2d627ab",
+      "balance": 0,
+      "creditRedeemedCount": 0,
+      "lastCreditAt": "2026-11-20T13:47:21.765Z",
+      "createdAt": "2026-11-20T13:43:56.517Z",
+      "updatedAt": "2026-11-20T13:47:26.909Z",
+      "transactions": [
+        {
+          "id": "4551df97-5172-4bf6-8201-4edc82d7aaef",
+          "type": "purchase",
+          "description": "Compra: KEY PREMIUM — 1 MÊS",
+          "amount": 250,
+          "balanceAfter": 0,
+          "createdAt": "2026-11-20T13:47:26.909Z",
+          "keyCode": "DLS-1M-SMAA-S32V"
+        },
+        {
+          "id": "34396363-6066-44cd-a805-9982308b50ca",
+          "type": "credit",
+          "description": "Resgate de código ESPECIAL (250 moedas)",
+          "amount": 250,
+          "balanceAfter": 250,
+          "createdAt": "2026-11-20T13:47:21.765Z"
+        }
+      ]
+    },
+    "74ae6de2-1877-4b9d-a990-6f42a774ad18": {
+      "id": "74ae6de2-1877-4b9d-a990-6f42a774ad18",
+      "balance": 0,
+      "creditRedeemedCount": 0,
+      "lastCreditAt": null,
+      "createdAt": "2026-11-20T14:38:05.688Z",
+      "updatedAt": "2026-11-20T14:38:05.688Z",
+      "transactions": []
+    }
+  },
+  "keys": {
+    "DLS-1M-SMAA-S32V": {
+      "id": "4f3fdb0e-7b7a-4cfa-bc48-8694d4fd7ac5",
+      "code": "DLS-1M-SMAA-S32V",
+      "walletId": "bcaee915-ffcd-4c40-927e-e065e2d627ab",
+      "planId": "1m",
+      "planName": "KEY PREMIUM — 1 MÊS",
+      "durationLabel": "1 mês (30 dias)",
+      "durationMs": 2592000000,
+      "pricePaid": 250,
+      "purchasedAt": "2026-11-20T13:47:26.909Z",
+      "activatedAt": "2026-11-20T13:48:35.145Z",
+      "expiresAt": "2026-12-20T13:48:35.145Z"
+    }
+  },
+  "redemptions": [
+    {
+      "id": "b12d8f48-0807-4777-b727-8bcb1ef959cf",
+      "walletId": "bcaee915-ffcd-4c40-927e-e065e2d627ab",
+      "amount": 250,
+      "redeemedAt": "2026-11-20T13:47:21.765Z"
+    }
+  ]
+}
